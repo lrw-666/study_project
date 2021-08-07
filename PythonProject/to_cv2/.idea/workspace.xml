@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c9cdca2-ed3c-490e-9bdc-193de98a40e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uStGN3WVtdM8De8bwHnQlAd0Iv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\projects\PythonProject\to_cv2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\projects\PythonProject\to_cv2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ocv7">
+    <configuration name="excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="to_cv2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ocv4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="to_cv2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ocv4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ocv5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="to_cv2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ocv5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ocv6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="to_cv2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ocv6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ocv7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="to_cv2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ocv7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ocv7" />
+        <item itemvalue="Python.excel" />
+        <item itemvalue="Python.ocv6" />
+        <item itemvalue="Python.ocv5" />
+        <item itemvalue="Python.ocv4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\86153\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c9cdca2-ed3c-490e-9bdc-193de98a40e7" name="Default Changelist" comment="" />
+      <created>1624670721865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624670721865</updated>
+      <workItem from="1624670723361" duration="23226000" />
+      <workItem from="1624756990712" duration="15355000" />
+      <workItem from="1624844192414" duration="10854000" />
+      <workItem from="1624926269492" duration="1121000" />
+      <workItem from="1624947700999" duration="1123000" />
+      <workItem from="1624951506182" duration="4882000" />
+      <workItem from="1625012264328" duration="5335000" />
+      <workItem from="1625044051512" duration="19000" />
+      <workItem from="1625143543715" duration="4309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-711" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624762798443">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-711" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1624762798443" />
+    <state x="-762" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1625018033573">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-762" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1625018033573" />
+    <state x="-671" y="280" key="FileChooserDialogImpl" timestamp="1624848216983">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-671" y="280" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1624848216983" />
+    <state width="951" height="261" key="GridCell.Tab.0.bottom" timestamp="1625149660761">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="951" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1625149660761" />
+    <state width="861" height="275" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.999@-1920.0.1920.999" timestamp="1624676763871" />
+    <state width="951" height="261" key="GridCell.Tab.0.center" timestamp="1625149660760">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="951" height="261" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1625149660760" />
+    <state width="861" height="275" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.999@-1920.0.1920.999" timestamp="1624676763870" />
+    <state width="951" height="261" key="GridCell.Tab.0.left" timestamp="1625149660760">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="951" height="261" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1625149660760" />
+    <state width="861" height="275" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.999@-1920.0.1920.999" timestamp="1624676763870" />
+    <state width="951" height="261" key="GridCell.Tab.0.right" timestamp="1625149660761">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="951" height="261" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1625149660761" />
+    <state width="861" height="275" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.999@-1920.0.1920.999" timestamp="1624676763871" />
+    <state width="1076" height="353" key="GridCell.Tab.1.bottom" timestamp="1624863554521">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1076" height="353" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1624863554521" />
+    <state width="1076" height="353" key="GridCell.Tab.1.center" timestamp="1624863554521">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1076" height="353" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1624863554521" />
+    <state width="1076" height="353" key="GridCell.Tab.1.left" timestamp="1624863554521">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1076" height="353" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1624863554521" />
+    <state width="1076" height="353" key="GridCell.Tab.1.right" timestamp="1624863554521">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1076" height="353" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1624863554521" />
+    <state x="-1039" y="284" width="998" height="719" key="SettingsEditor" timestamp="1625014943585">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1039" y="284" width="998" height="719" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1625014943585" />
+    <state x="-811" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1625044051111">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-811" y="344" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1625044051111" />
+    <state x="-798" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1624863554441">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-798" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1624863554441" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/to_cv2$ocv2.coverage" NAME="ocv2 Coverage Results" MODIFIED="1624762690697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/to_cv2$ocv5.coverage" NAME="ocv5 Coverage Results" MODIFIED="1624847466127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/to_cv2$ocv1.coverage" NAME="ocv1 Coverage Results" MODIFIED="1624690095661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/to_cv2$excel.coverage" NAME="excel Coverage Results" MODIFIED="1625144774045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/to_cv2$ocv3.coverage" NAME="ocv3 Coverage Results" MODIFIED="1624773078686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/to_cv2$ocv4.coverage" NAME="ocv4 Coverage Results" MODIFIED="1624776265537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/to_cv2$ocv6.coverage" NAME="ocv6 Coverage Results" MODIFIED="1624857184315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/to_cv2$ocv7.coverage" NAME="ocv7 Coverage Results" MODIFIED="1625147770770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

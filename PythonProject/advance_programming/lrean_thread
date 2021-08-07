@@ -1,0 +1,12 @@
+"""多线程"""
+
+# Python虚拟机、全局解释器锁(GIL)
+# 退出线程:1.当前线程完成函数的执行 2.调用如thread.exit()之类的退出函数，或sys.exit()之类的退出Python进程 3.抛出SystemExit异常使线程退出
+# 避免使用thread模块(python3中改名为_thread)，使用threading：确保所有重要的子线程退出前，保持整个进程的存活
+# 锁两种状态：锁定和未锁定 支持两个函数：获得锁和释放锁（acquire 和 release）
+# 上下文管理器：with
+# 信息量：一个计数器，当资源消耗是递减，当资源释放时递增 threading模块包括两种信号量：Semaphore和BoundedSemaphore
+# BoundedSemaphore的一个额外功能是这个计数器的值永远不会超过他的初始值
+# 计数器只是类的一个属性，Python3为self._value，开发者可以继承threading._BoundedSemaphore类，实现一个__len__()方法
+
+# Queue/queue模块：队列
