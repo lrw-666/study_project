@@ -1,0 +1,38 @@
+body{
+    background-color: bisque;
+    text-align: center;
+}
+caption{
+    border-style: outset;border-width: 5px 4px 3px 2px;border-radius: 25px;border-color: aliceblue;
+    margin: 50px 50px;
+    font-style: italic;
+    font-weight: bold;
+    background: lightskyblue;
+}
+table{
+    width:1000px;
+    height:900px;
+    border:1px solid lightskyblue;
+    outline:20px solid lightgoldenrodyellow ;
+    font-style: normal;font-size: 1.5em;font-family: "Trebuchet MS", Arial, Helveticza, sans-serif;
+    background-image: url("preview.jpg");
+    margin: auto;
+}
+.one{
+    text-align: center;
+    font-size: 1.2em;
+}
+.two{
+    font-size: 1.5em;
+    width: 200px;
+    text-align: center;
+}
+#first{
+    font-size: 1em;
+}
+a:hover{
+    color: saddlebrown;
+}
+a:active{
+    color: wheat;
+}

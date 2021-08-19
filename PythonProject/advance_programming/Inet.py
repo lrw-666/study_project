@@ -73,6 +73,7 @@ def udp_client():
 
 # SocketServer模块：事件驱动，只有在系统中的时间发生时，他们才会工作
 # Twisted框架:一个完整的事件驱动的网络框架
+<<<<<<< HEAD
 # 模块urllib和urllib2：通过网络访问文件
 from urllib.request import urlopen, urlretrieve
 webpage = urlopen('http://www.python.org') # 打开远程文件
@@ -81,6 +82,8 @@ urlretrieve('http://www.python.org', 'python_webpage.html') # 下载文件
 # 多个连接：同时处理多个客户端的连接请求，主要方式有三种：分叉、线程化和异步I/O
 # 分叉：复制进程，得到的两个进程都将从当前位置开始继续往下执行，占用资源较多
 # 线程：都位于同一个进程并共享内存，减少资源占用，但存在同步问题
+=======
+>>>>>>> 2f0794eb1655b7c03b11c7834dfa56b3c0484c43
 
 if __name__ == '__main__':
     tcp_server()
