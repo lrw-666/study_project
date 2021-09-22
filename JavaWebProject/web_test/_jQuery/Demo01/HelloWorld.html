@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+         /*定义样式*/
+        div.redDiv{
+            background-color: red;
+        }
+    </style>
+    <script type="text/javascript" src="../script/jquery-3.3.1.js"></script>
+    <script type="text/javascript">
+        // alert($);
+        $(function (){
+            // let btnObj = document.getElementById("btnId");
+            // alert(btnObj);
+            let $btnObj = $("#btnId"); // 表示按id查询标签对象
+            $btnObj.click(function (){
+                alert("jQuery 的单击事件");
+                //.css()方法可以设置和获取样式
+                $("#btnId").css("background-color", "#bbffaa");
+                // $("button").first().css("background-color", "#aabbcc")
+                // $("body").html("<h1>我是你爸爸<h1></h1>")
+                alert($("button").attr("value", "abc"))
+                $("<h1>标签对象</h1>").appendTo($("div")); // 插入后面
+                let $divEle = $('div:first');
+                $divEle.addClass('redDiv')
+
+            })
+        })
+    </script>
+</head>
+<body>
+    <button id="btnId">SatHello</button>
+    <div>1234</div>
+</body>
+</html>

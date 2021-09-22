@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+    <script type="text/javascript">
+        window.onload = function (){
+            let obj = document.getElementById("click")
+            obj.onclick=function (){
+                alert("点击了")
+            }
+        }
+    </script>
+    <script type="text/javascript">
+        // 表示要求字符串中是否包含字母e
+        // let patt = new RegExp("e");
+        let patt = /e/; //也是正则对象
+        alert(patt.test("abcd"));
+    </script>
+<body>
+    <button id="click"></button>
+</body>
+</html>

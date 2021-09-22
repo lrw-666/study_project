@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+    注释
+-->
+<books>
+    <book sn="SN1234568797">
+        <name>时间简史</name>
+        <author>霍金<![CDATA[>>>>>]]]></author>
+        <price>75</price>
+    </book>
+</books>

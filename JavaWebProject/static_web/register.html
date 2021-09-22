@@ -12,11 +12,11 @@
         <tr>
             <td>
                 <h1>register</h1>
-                <form method="post">
+                <form method="post" name="form1">
                     <label>
                         <input type="text" required="required" placeholder="用户名" name="user">
                         <input type="password" required="required" placeholder="密码" name="pw">
-                        <button type="submit" class="but">注册</button>
+                        <button type="submit" class="but" onclick="checkUser()">注册</button>
                     </label>
                 </form>
             </td>
@@ -24,3 +24,11 @@
     </table>
 </body>
 </html>
+
+
+<script language="JavaScript">
+    function checkUser(){
+        let str = form1.user.value;
+        alert(str);
+    }
+</script>

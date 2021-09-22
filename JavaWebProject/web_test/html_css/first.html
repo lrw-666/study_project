@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="zh_CH">
+<head>
+    <meta charse="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="../_JavaScript/first.js"></script>
+    <script type="text/javascript">
+        function fun(){
+            alert(arguments.length);//可查看参数个数
+            alert(arguments[0])
+            alert(arguments[0]+arguments[1])
+            alert("无参函数被调用了");
+        }
+        fun()//被调用才会执行
+        function fun2(a, b){
+            alert("有参函数被调用了"+a+b);
+        }
+        fun(2, "lrw")
+
+        let fun3=function (a, b){
+            alert("有参函数3")
+        }
+        fun3()
+
+        // 隐形参数
+        fun(1, "ad");
+    </script>
+    <script type="text/javascript">
+        // 变量
+        let i;
+        alert(i);
+        i="12";
+        alert(typeof(i));
+        let a=12;
+        let b='abc';
+        alert(a*b)
+        // 关系运算
+        alert(i == a)
+        alert(i === a)
+        // 逻辑运算
+        let c=null
+        if(!c){
+            alert("1")
+        }
+        alert("")
+        // 数组
+        let arr=[];
+        alert(arr[0])//不报错
+        arr=[true, 1]
+        for(let i=0;i<arr.length;i++){
+            alert(arr[i])
+        }
+    </script>
+    <script type="text/javascript">
+        //对象
+        let obj=new Object();
+        obj.name="华仔"
+        obj.fun=function (){}
+        obj.fun()
+
+        //对像2
+        let obj2={
+            name:"lrw",
+            fun:function (){}
+        };
+        alert(obj2.name)
+    </script>
+</head>
+<body>
+<h1>标题1 &nbsp</h1>
+<h2>标题2&lt</h2>
+    <button onclick=alert("lrw")></button>
+</body>
+</html>
